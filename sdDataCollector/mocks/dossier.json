@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "type": "SOUSCRIPTION",
+  "typeClient": "PRO",
+  "typeContrat": "GSM",
+  "etat": "EN_COURS",
+  "dateCreation": "12/12/18",
+  "dateMiseAJour": "13/12/18"
+}
